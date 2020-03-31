@@ -31,19 +31,13 @@ This project let the user put in information in each time block to schedule thei
 To use this app you can click : [here](https://zahraaliaghazadeh.github.io/HW5/)
 
 
-
-#### Areas of improvement?
-It can improve in terms of its looks to look more like a planner.
-The codes are repeated a lot and can be cleaned.
-
-
-
-
+ 
 ## Features
 List of features ready and TODOs for future development
-* feature 1 : color coded based on past present and future time slots. 
+* feature 1 : color coded based on past present and future for the 9 time slots from 9am to 5pm. 
 * feature 2 : ability to save in the local storage
-* feature 3
+* feature 3 : It displays the time and date of the current day on top.
+
 
 To-do list:
 * improvement to be done 1 : clean the code
@@ -55,7 +49,7 @@ To-do list:
 Project is: _in progress_,
 
 ## Inspiration
-As someone who always carries a calender, I liked to build the application to be able to improve it later as well.
+As someone who always carries a calender, I liked to build the application to have my own digital format of a daily planner. I can also improve it later with better features.
 
 
 #### Licence
