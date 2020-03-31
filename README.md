@@ -28,7 +28,7 @@ This project let the user put in information in each time block to schedule thei
 * The original CSS provided by [Triology](https://www.trilogyed.com/)
 
 ## Setup
-To use this app you can click : [here](https://zahraaliaghazadeh.github.io/HW5/)
+To use this app you can click : [here](https://zahraaliaghazadeh.github.io/Office-Daily-Planner/)
 
 
  
