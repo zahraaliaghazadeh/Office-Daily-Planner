@@ -17,7 +17,7 @@ $("#saveBtn9").on('click', function () {
     var str9 = $("#timeblock9").val();
     localStorage.setItem("9am", str9);
       // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
-      str9 = JSON.parse(localStorage.getItem('9am'))
+    //   str9 = JSON.parse(localStorage.getItem('9am'))
     console.log(str9);
 })
 $("#saveBtn10").on('click', function () {
