@@ -42,8 +42,8 @@ List of features ready and TODOs for future development
 To-do list:
 * improvement to be done 1 : clean the code
 * improvement to be done 2 : ability to save the text areas.
-* improvement to be done 2 : css style needs improvement.
-* wow improvement to be done 2 : posibibly making a calender that user will be able to drag and drop stickers onto the day.
+* improvement to be done 3 : css style needs improvement.
+* wow improvement to be done 1 : posibibly making a calender that user will be able to drag and drop stickers onto the day.
 
 ## Status
 Project is: _in progress_,
