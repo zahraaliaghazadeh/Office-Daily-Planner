@@ -1,38 +1,42 @@
-# Daily-office-calender
-03/19/2020-daily calendar with 9 time-blocks.
+# office-Daily-Planner
 
-a)  what, why, and how? (project description)
-
-I made the rows in html because it was the simplest first idea that came to me, first just worked on one row and as I go I started adding functionality to it. Right now it can save the things you type in the text boxes but It is not saving in the local storage. I also couldnt figure out how to do the color change for past and present.
-I was able to use the moment website and get the date on the screen. I also found a way to just track only the hour of the current moment.
+## daily calendar with 9 time-blocks
+This application is a simple office daily planner with 9 time blocks. It can save the input in each time slot once you click the save button. In this colorcoded app, the past timeslot is gray , present is red and future is green. 
 
 
+#### Screen Shot
 
-b) Why did you build this project? 
-
-Technically I should have used more of jQuery commands in my project So the reason would have been to practice jQuery. 
-
-c)What problem does it solve?
-
-This project let the user put in information in each time block to schedule their daily events. It is a very useful project. 
-
-d) What did you learn?
-
-I was able to work with the moment website to display the time and also grab only the hour part of the time on the screen. I was able to grab the data entered into the text box input and show it in the console. 
-
-e) What makes your project stand out? 
-I am not proud of my project.
+![Screenshot](assets/images/ScreenShot.png)
 
 
-f) Areas of improvement?
-It s nowhere close to what it should be.
-It needs to change color based on past, present and future.
-It needs to find a way to not repeat all those rows in html as well as the function in js. 
+#### Installation
+To use this app you can click : [here](https://zahraaliaghazadeh.github.io/HW5/)
 
-g) link to the deployed application.
-https://zahraaliaghazadeh.github.io/HW5/
+#### Usage
+In order to use this application you can open the link. 
+This project let the user put in information in each time block to schedule their daily events which can be helpful. 
 
-h) screenshot
+#### credits
+The time imported from [momentjs](https://momentjs.com/)
 
-I was not able to put the screen shot on here.
+Used [bootstrap](https://getbootstrap.com/)
+
+Used [fontawesome](https://fontawesome.com/) and [googlefonts](https://developers.google.com/fonts)
+
+The original CSS provided by [Triology](https://www.trilogyed.com/)
+
+
+#### Contact
+Email: zahraaliaghazadeh@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/yalda-aghazade-7a9b0390)
+
+#### Licence
+MIT license
+copy right © Zahra Ali Aghazadeh
+
+#### Areas of improvement?
+It can improve in terms of its looks to look more like a planner.
+The codes are repeated a lot and can be cleaned.
+
 
