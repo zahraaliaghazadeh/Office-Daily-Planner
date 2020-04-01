@@ -13,68 +13,106 @@ $("#currentDay").text(date);
 //example to take out white text
 // var todoText = todoInput.value.trim();
 
+
+var local9 = localStorage.getItem('9am');
+$("#timeblock9").val(local9);
+var local10 = localStorage.getItem('10am');
+$("#timeblock10").val(local10);
+var local11 = localStorage.getItem('11am');
+$("#timeblock11").val(local11);
+var local12 = localStorage.getItem('12pm');
+$("#timeblock12").val(local12);
+var local1 = localStorage.getItem('1pm');
+$("#timeblock1").val(local1);
+var local2 = localStorage.getItem('2pm');
+$("#timeblock2").val(local2);
+var local3 = localStorage.getItem('3pm');
+$("#timeblock3").val(local3);
+var local4 = localStorage.getItem('4pm');
+$("#timeblock4").val(local4);
+var local5 = localStorage.getItem('5pm');
+$("#timeblock5").val(local5);
+
 $("#saveBtn9").on('click', function () {
     var str9 = $("#timeblock9").val();
     localStorage.setItem("9am", str9);
-      // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
-    //   str9 = JSON.parse(localStorage.getItem('9am'))
-    console.log(str9);
+
+    var local9 = localStorage.getItem('9am');
+    $("#timeblock9").val(local9);
+
+    // console.log(str9);
 })
 $("#saveBtn10").on('click', function () {
     var str10 = $("#timeblock10").val();
     localStorage.setItem("10am", str10);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str10);
+    var local10 = localStorage.getItem('10am');
+    $("#timeblock10").val(local10);
+
+    // console.log(str10);
 })
 $("#saveBtn11").on('click', function () {
     var str11 = $("#timeblock11").val();
     localStorage.setItem("11am", str11);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str11);
+    var local11 = localStorage.getItem('11am');
+    $("#timeblock11").val(local11);
+
+    // console.log(str11);
 })
 $("#saveBtn12").on('click', function () {
     var str12 = $("#timeblock12").val();
     localStorage.setItem("12pm", str12);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str12);
+    var local12 = localStorage.getItem('12pm');
+    $("#timeblock12").val(local12);
+
+    // console.log(str12);
 })
 $("#saveBtn1").on('click', function () {
     var str1 = $("#timeblock1").val();
     localStorage.setItem("1pm", str1);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str1);
+    var local1 = localStorage.getItem('1pm');
+    $("#timeblock1").val(local1);
+
+    // console.log(str1);
 })
 $("#saveBtn2").on('click', function () {
     var str2 = $("#timeblock2").val();
     localStorage.setItem("2pm", str2);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str2);
+    var local2 = localStorage.getItem('2pm');
+    $("#timeblock2").val(local2);
+
+    // console.log(str2);
 })
 $("#saveBtn3").on('click', function () {
     var str3 = $("#timeblock3").val();
     localStorage.setItem("3pm", str3);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str3);
+    var local3 = localStorage.getItem('3pm');
+    $("#timeblock3").val(local3);
+
+    // console.log(str3);
 })
 $("#saveBtn4").on('click', function () {
     var str4 = $("#timeblock4").val();
     localStorage.setItem("4pm", str4);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str4);
+    var local4 = localStorage.getItem('4pm');
+    $("#timeblock4").val(local4);
+
+    // console.log(str4);
 })
 $("#saveBtn5").on('click', function () {
     var str5 = $("#timeblock5").val();
     localStorage.setItem("5pm", str5);
-    // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 
-    console.log(str5);
+    var local5 = localStorage.getItem('5pm');
+    $("#timeblock5").val(local5);
+
+    // console.log(str5);
 })
 
 
