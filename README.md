@@ -1,4 +1,4 @@
-# office-Daily-Planner
+#  [office-Daily-Planner](https://zahraaliaghazadeh.github.io/Office-Daily-Planner/)
 > This application is a simple office daily planner with 9 time blocks. It can save the input in each time slot once you click the save button. In this colorcoded app, the past timeslot is gray , present is red and future is green. 
 
 
